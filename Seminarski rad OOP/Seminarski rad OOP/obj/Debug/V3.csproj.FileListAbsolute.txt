@@ -1,0 +1,21 @@
+C:\Users\Pero\source\repos\V3\bin\Debug\finalnabazaV1.accdb
+C:\Users\Pero\source\repos\V3\bin\Debug\V3.exe.config
+C:\Users\Pero\source\repos\V3\bin\Debug\V3.exe
+C:\Users\Pero\source\repos\V3\bin\Debug\V3.pdb
+C:\Users\Pero\source\repos\V3\obj\Debug\V3.csprojAssemblyReference.cache
+C:\Users\Pero\source\repos\V3\obj\Debug\V3.Form1.resources
+C:\Users\Pero\source\repos\V3\obj\Debug\V3.Properties.Resources.resources
+C:\Users\Pero\source\repos\V3\obj\Debug\V3.csproj.GenerateResource.cache
+C:\Users\Pero\source\repos\V3\obj\Debug\V3.exe
+C:\Users\Pero\source\repos\V3\obj\Debug\V3.pdb
+D:\Seminarski rad OOP\Seminarski rad OOP\bin\Debug\finalnabazaV1.accdb
+D:\Seminarski rad OOP\Seminarski rad OOP\bin\Debug\V3.exe.config
+D:\Seminarski rad OOP\Seminarski rad OOP\bin\Debug\V3.exe
+D:\Seminarski rad OOP\Seminarski rad OOP\bin\Debug\V3.pdb
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.csprojAssemblyReference.cache
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.Form1.resources
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.Properties.Resources.resources
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.csproj.GenerateResource.cache
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.csproj.CoreCompileInputs.cache
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.exe
+D:\Seminarski rad OOP\Seminarski rad OOP\obj\Debug\V3.pdb
